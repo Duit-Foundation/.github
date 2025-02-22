@@ -4,4 +4,4 @@
 
 The framework ensures that the layout model is received from the server, interacts with the backend via the Action API, and embeds custom components into the widget hierarchy processing pipeline. Duit is flexible and extensible, which allows it to create rich UI dynamically.
 
-See documentaion [ru](https://github.com/Duit-Foundation/duit_doc/tree/main/ru) / [en](https://github.com/Duit-Foundation/duit_doc/tree/main/en)
+See documentaion https://www.duit.pro
